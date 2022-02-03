@@ -1,0 +1,6 @@
+E:\ConsoleTest\bin\Release\ConsoleTest.exe.config
+E:\ConsoleTest\bin\Release\ConsoleTest.exe
+E:\ConsoleTest\bin\Release\ConsoleTest.pdb
+E:\ConsoleTest\obj\Release\ConsoleTest.csproj.CoreCompileInputs.cache
+E:\ConsoleTest\obj\Release\ConsoleTest.exe
+E:\ConsoleTest\obj\Release\ConsoleTest.pdb
